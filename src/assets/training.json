@@ -1,0 +1,35 @@
+{
+    "training" : [
+        {
+            "name": "University",
+            "relativeUrl": "university"
+        },
+        {
+            "name": "Courses",
+            "relativeUrl": "courses"
+        }
+        
+    ],
+    "universityStudies": [
+        {
+            "university": "Dayananda Sagar Academy of Technology and Management-(VTU)",
+            "title": "B.E in information Science and Engineering",
+            "grade": 6.9,
+            "info": "My final year project was about Seisemic Powerplant Shutdown system using IOT,We used custom IOT board which can sends real time data over the server during any seisemic activity.",
+            "infoUrl": "",
+            "from": "Aug,2017",
+            "to": "Aug,2021",
+            "imageUrl": ""
+        }
+    ],
+    "courses": [
+        {
+            "entity": "Coursera",
+            "title": "Architecting with google Compute Engine.",
+            "info": "I participated in a Google Cloud Training from Google",
+            "infoUrl": "https://www.coursera.org/account/accomplishments/verify/C94ABX6LRAUE",
+            "imageUrl": "http://68.media.tumblr.com/92a71d62ace9940f8ddd540400444fc4/tumblr_inline_mppo32jFBC1qz4rgp.png"
+        }
+       
+    ]
+}

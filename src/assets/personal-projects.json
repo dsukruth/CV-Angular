@@ -1,0 +1,31 @@
+{
+    "projects": [
+        {
+            "name": "Social media app using MERN stack",
+            "info": [
+                "Built a Platform where developers can connect and share posts,comments.",
+                "USed technologies: MOngoDB Atlas, Express.js,React.js,Node.js",
+                "Deployed onto Heroku"
+            ],
+            "technologies": "MongoDB,Express.js,React.js,Node.js",
+            "web": "https://polar-headland-23430.herokuapp.com/"
+        },
+        {
+            "name": "Seisemic Powerplant Shutdown System using IOT ",
+            "info": ["Created a small Seismeic sensor to alert the subscriber and shutdown Automatically"
+                
+            ],
+            "technologies": "ADXL 335 accelometer,NOdeMCU,Arduino,adafruit API,Twillio API"
+            
+        },
+        {
+            "name": "VINCI",
+            "info": ["Very intelligent neural computer interface it uses voice commands to send back information to the user."
+                
+            ],
+            "technologies": "Python"
+        
+        }
+        
+    ]
+}

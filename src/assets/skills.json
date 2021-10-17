@@ -1,0 +1,71 @@
+{
+    "skills" : [
+        {
+            "name": "Languages",
+            "skills": [
+                {
+                    "name": "Python",
+                    "level": "Basic Knowledge",
+                    "experience": [
+                        "I have worked in only 1 applications using Python, I also used this language in a project where I had to automate some processes."
+                    ]
+                },
+                {
+                    "name": "Java",
+                    "level": "Basic Knowledge",
+                    "experience": [
+                        "I have worked in 1 web applications during my under graduation"
+                       
+                    ]
+                },
+                {
+                    "name": "JavaScript",
+                    "level": "Basic Knowledge",
+                    "experience": [
+                        "Professionally I worked a in the Control Panel Project. I had to implement some functions to handle the layout of the graphs in the Pentaho Dashboard."
+                    ]
+                }
+            
+            ]
+        },
+        {
+            "name": "Databases",
+            "skills": [
+                {
+                    "name": "MongoDB",
+                    "level": "Competent",
+                    "experience": [
+                        "Professionally: I have used MongoDB as database in 1 projects, Which can be seen in My project section",
+                        "Non-professionally: I have two personal projects where I have choose MOngoDb as my database. The Shopping list and the CRM."
+                    ]
+                }
+               
+            ]
+        },
+        
+        {
+            "name": "Frameworks",
+            "skills": [
+                {
+                    "name": "React",
+                    "level": "Competent",
+                    "experience": [
+                        "I have worked in 3 projects where React.js was the framework choosen to develop the backend"
+                        
+                    ]
+                },
+                {
+                    "name": "Angular",
+                    "level": "Basic Knowledge",
+                    "experience": [
+                        "I have worked with for this Curriculum Vitae"
+                    ]
+                }
+                
+            ]
+        }
+
+    
+        
+    ]
+}

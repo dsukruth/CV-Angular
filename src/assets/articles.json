@@ -1,0 +1,18 @@
+{
+    "webs" : [
+        {
+            "name": "Medium",
+            "articles": [
+                {
+                    "name": "A Simple guide: Difference between Machine learning, Data science and Artificial Intelligence ?",
+                    "link": "https://medium.com/machine-learning-basics-all-you-need-to-know-to/difference-between-machine-learning-data-science-and-artificial-intelligence-e6285d92350" 
+                },
+                {
+                    
+                    "name": "Machine learning tools required to get started in 2020.",
+                    "link": "https://medium.com/machine-learning-basics-all-you-need-to-know-to/machine-learning-tools-required-to-get-started-in-2020-e1942a499f98" 
+                }
+            ]
+        }        
+    ]
+}

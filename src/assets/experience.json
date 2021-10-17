@@ -1,0 +1,21 @@
+{
+    "experience" : [
+        {
+            "company": "Dedoco Pte Ltd",
+            "position": "Software Engineer Intern",
+            "from": "Aug,2020",
+            "to": "Sept,2020",
+            "projects": [
+                {
+                    "name": "Deploying Dapps to Kaliedo Network",
+                    "technologies": "Blockchain",
+                    "responsabilities": "In this project I used kaliedo API to integrate our decentralized document nterface and create a robust application on the blockchain"
+                }
+                
+            ],
+            "logo": "https://directory.singaporefintech.org/directory/listing/dedoco",
+            "recommendation": ""
+        }
+        
+    ]
+}
